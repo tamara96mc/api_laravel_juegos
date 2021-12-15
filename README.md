@@ -54,7 +54,7 @@ El modelo de base de datos es el siguente:
 
 ![image](https://user-images.githubusercontent.com/60045207/146153562-5fc8b44c-0c32-4aae-b831-31bf420c77b3.png)
 
-## HEROHU
+## HEROKU
 
 La API está publicada en:
 
