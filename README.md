@@ -4,46 +4,46 @@
 ## ENDPOINTS
 
 CRUD PLAYER:
-https://api-laravel-juegos.herokuapp.com/api/allPlayers
-https://api-laravel-juegos.herokuapp.com/api/playerById
-https://api-laravel-juegos.herokuapp.com/api/newPlayer
-https://api-laravel-juegos.herokuapp.com/api/updatePlayer
-https://api-laravel-juegos.herokuapp.com/api/deletePlayer
+https://api-laravel-juegos.herokuapp.com/api/allPlayers <br/>
+https://api-laravel-juegos.herokuapp.com/api/playerById  <br/>
+https://api-laravel-juegos.herokuapp.com/api/newPlayer  <br/>
+https://api-laravel-juegos.herokuapp.com/api/updatePlayer  <br/>
+https://api-laravel-juegos.herokuapp.com/api/deletePlayer  <br/>
 
 CRUD GAME:
-https://api-laravel-juegos.herokuapp.com/api/allGames
-https://api-laravel-juegos.herokuapp.com/api/GameById
-https://api-laravel-juegos.herokuapp.com/api/newGame
-https://api-laravel-juegos.herokuapp.com/api/updateGame
-https://api-laravel-juegos.herokuapp.com/api/deleteGame
+https://api-laravel-juegos.herokuapp.com/api/allGames  <br/>
+https://api-laravel-juegos.herokuapp.com/api/GameById <br/>
+https://api-laravel-juegos.herokuapp.com/api/newGame <br/>
+https://api-laravel-juegos.herokuapp.com/api/updateGame <br/>
+https://api-laravel-juegos.herokuapp.com/api/deleteGame <br/>
 
 CRUD PARTY:
-https://api-laravel-juegos.herokuapp.com/api/allParties
-https://api-laravel-juegos.herokuapp.com/api/PartyById
-https://api-laravel-juegos.herokuapp.com/api/newParty
-https://api-laravel-juegos.herokuapp.com/api/updateParty
-https://api-laravel-juegos.herokuapp.com/api/deleteParty
+https://api-laravel-juegos.herokuapp.com/api/allParties <br/>
+https://api-laravel-juegos.herokuapp.com/api/PartyById  <br/>
+https://api-laravel-juegos.herokuapp.com/api/newParty <br/>
+https://api-laravel-juegos.herokuapp.com/api/updateParty <br/>
+https://api-laravel-juegos.herokuapp.com/api/deleteParty <br/>
 
 CRUD MESSAGES:
-https://api-laravel-juegos.herokuapp.com/api/allMessages
-https://api-laravel-juegos.herokuapp.com/api/MessageById
-https://api-laravel-juegos.herokuapp.com/api/newMessage
-https://api-laravel-juegos.herokuapp.com/api/updateMessage
-https://api-laravel-juegos.herokuapp.com/api/deleteMessage
+https://api-laravel-juegos.herokuapp.com/api/allMessages <br/>
+https://api-laravel-juegos.herokuapp.com/api/MessageById <br/>
+https://api-laravel-juegos.herokuapp.com/api/newMessage <br/>
+https://api-laravel-juegos.herokuapp.com/api/updateMessage <br/>
+https://api-laravel-juegos.herokuapp.com/api/deleteMessage <br/>
 
 CRUD FRIENDSHIP:
-https://api-laravel-juegos.herokuapp.com/api/allFriendships
-https://api-laravel-juegos.herokuapp.com/api/FriendshipById
-https://api-laravel-juegos.herokuapp.com/api/newFriendship
-https://api-laravel-juegos.herokuapp.com/api/updateFriendship
-https://api-laravel-juegos.herokuapp.com/api/deleteFriendship
+https://api-laravel-juegos.herokuapp.com/api/allFriendships <br/>
+https://api-laravel-juegos.herokuapp.com/api/FriendshipById <br/>
+https://api-laravel-juegos.herokuapp.com/api/newFriendship <br/>
+https://api-laravel-juegos.herokuapp.com/api/updateFriendship <br/>
+https://api-laravel-juegos.herokuapp.com/api/deleteFriendship <br/>
 
 CRUD MEMBER:
-https://api-laravel-juegos.herokuapp.com/api/allMembers
-https://api-laravel-juegos.herokuapp.com/api/MemberById
-https://api-laravel-juegos.herokuapp.com/api/newMember
-https://api-laravel-juegos.herokuapp.com/api/updateMember
-https://api-laravel-juegos.herokuapp.com/api/deleteMember
+https://api-laravel-juegos.herokuapp.com/api/allMembers <br/>
+https://api-laravel-juegos.herokuapp.com/api/MemberById <br/>
+https://api-laravel-juegos.herokuapp.com/api/newMember <br/>
+https://api-laravel-juegos.herokuapp.com/api/updateMember <br/>
+https://api-laravel-juegos.herokuapp.com/api/deleteMember <br/>
 
 
 ## DATA BASE
