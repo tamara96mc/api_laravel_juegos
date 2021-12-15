@@ -3,6 +3,8 @@
 
 ## ENDPOINTS
 
+Los EndPoints de las entidades son los siguentes:
+
 CRUD PLAYER: <br/>
 https://api-laravel-juegos.herokuapp.com/api/allPlayers <br/>
 https://api-laravel-juegos.herokuapp.com/api/playerById  <br/>
