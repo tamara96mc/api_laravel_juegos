@@ -3,42 +3,42 @@
 
 ## ENDPOINTS
 
-CRUD PLAYER:
+CRUD PLAYER: <br/>
 https://api-laravel-juegos.herokuapp.com/api/allPlayers <br/>
 https://api-laravel-juegos.herokuapp.com/api/playerById  <br/>
 https://api-laravel-juegos.herokuapp.com/api/newPlayer  <br/>
 https://api-laravel-juegos.herokuapp.com/api/updatePlayer  <br/>
 https://api-laravel-juegos.herokuapp.com/api/deletePlayer  <br/>
 
-CRUD GAME:
+CRUD GAME: <br/>
 https://api-laravel-juegos.herokuapp.com/api/allGames  <br/>
 https://api-laravel-juegos.herokuapp.com/api/GameById <br/>
 https://api-laravel-juegos.herokuapp.com/api/newGame <br/>
 https://api-laravel-juegos.herokuapp.com/api/updateGame <br/>
 https://api-laravel-juegos.herokuapp.com/api/deleteGame <br/>
 
-CRUD PARTY:
+CRUD PARTY: <br/>
 https://api-laravel-juegos.herokuapp.com/api/allParties <br/>
 https://api-laravel-juegos.herokuapp.com/api/PartyById  <br/>
 https://api-laravel-juegos.herokuapp.com/api/newParty <br/>
 https://api-laravel-juegos.herokuapp.com/api/updateParty <br/>
 https://api-laravel-juegos.herokuapp.com/api/deleteParty <br/>
 
-CRUD MESSAGES:
+CRUD MESSAGES: <br/>
 https://api-laravel-juegos.herokuapp.com/api/allMessages <br/>
 https://api-laravel-juegos.herokuapp.com/api/MessageById <br/>
 https://api-laravel-juegos.herokuapp.com/api/newMessage <br/>
 https://api-laravel-juegos.herokuapp.com/api/updateMessage <br/>
 https://api-laravel-juegos.herokuapp.com/api/deleteMessage <br/>
 
-CRUD FRIENDSHIP:
+CRUD FRIENDSHIP: <br/>
 https://api-laravel-juegos.herokuapp.com/api/allFriendships <br/>
 https://api-laravel-juegos.herokuapp.com/api/FriendshipById <br/>
 https://api-laravel-juegos.herokuapp.com/api/newFriendship <br/>
 https://api-laravel-juegos.herokuapp.com/api/updateFriendship <br/>
 https://api-laravel-juegos.herokuapp.com/api/deleteFriendship <br/>
 
-CRUD MEMBER:
+CRUD MEMBER: <br/>
 https://api-laravel-juegos.herokuapp.com/api/allMembers <br/>
 https://api-laravel-juegos.herokuapp.com/api/MemberById <br/>
 https://api-laravel-juegos.herokuapp.com/api/newMember <br/>
