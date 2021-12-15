@@ -24,7 +24,7 @@ https://api-laravel-juegos.herokuapp.com/api/newParty <br/>
 https://api-laravel-juegos.herokuapp.com/api/updateParty <br/>
 https://api-laravel-juegos.herokuapp.com/api/deleteParty <br/>
 
-CRUD MESSAGES: <br/>
+CRUD MESSAGE: <br/>
 https://api-laravel-juegos.herokuapp.com/api/allMessages <br/>
 https://api-laravel-juegos.herokuapp.com/api/MessageById <br/>
 https://api-laravel-juegos.herokuapp.com/api/newMessage <br/>
@@ -48,8 +48,12 @@ https://api-laravel-juegos.herokuapp.com/api/deleteMember <br/>
 
 ## DATA BASE
 
+El modelo de base de datos es el siguente:
+
 ![image](https://user-images.githubusercontent.com/60045207/146153562-5fc8b44c-0c32-4aae-b831-31bf420c77b3.png)
 
 ## HEROHU
 
-https://api-laravel-juegos.herokuapp.com/
+La API está publicada en:
+
+ https://api-laravel-juegos.herokuapp.com/
